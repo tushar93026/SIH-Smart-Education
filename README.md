@@ -1,6 +1,8 @@
 # SIH-Smart-Education
-Welcome to the Smart Education Website, an innovative platform designed to enhance the learning experience through interactive and dynamic content. This web application is built using HTML, CSS, and JavaScript to provide a user-friendly and engaging environment for both students and educators.
+Welcome to the Smart Education Website, an innovative platform designed to enhance the learning experience through interactive and dynamic content. This web application is built using HTML and CSS to provide a user-friendly and engaging environment for both students and educators.
+
 Features
+
 1.User Authentication: Secure login and registration system for both students and educators.
 2.Dashboard: Personalized dashboards for users, displaying relevant courses, announcements, and progress.
 3.Courses: Browse, enroll, and participate in interactive courses with multimedia content.
@@ -10,6 +12,7 @@ Features
 7.Announcements: Stay updated with important announcements and notifications from educators.
 
 Technologies Used
+
 1.HTML: Markup language for structuring the content.
 2.CSS: Styling language for enhancing the visual presentation.
-3.JavaScript: Programming language for interactive and dynamic features.
+
